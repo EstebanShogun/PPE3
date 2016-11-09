@@ -1,0 +1,8 @@
+{
+    "require": {
+        "gabordemooij/redbean": "dev-master",
+        "slim/slim": "2.*"
+
+    }
+
+}
